@@ -30,3 +30,13 @@ The system integrates the following components:
 - **Middleware**  
   **ROS 2** is used as the middleware for data handling, visualization, and modular control logic, with standardized topics, timestamps, and coordinate frames (TF).
 
+
+## Project Components
+
+1. Visual-Inertial Odometry
+
+2. FishEye
+
+3. Flight Control
+
+4. Drone Companion Computer
